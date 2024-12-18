@@ -87,7 +87,7 @@ const Home = () => {
           alt="Eshop Logo"
           style={{ width: "50px", height: "50px", marginRight: "10px" }}
         />
-        <h1>My-Eshop</h1>
+        <h1>Best Buy</h1>
       </div>
 
       <div className="filters">
